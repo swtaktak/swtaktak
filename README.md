@@ -3,4 +3,4 @@
 - 이전엔 데이터 분석을 했던 사람이지만, 데이터 엔지니어 분야로 전향을 생각중입니다.
 
 ## Resume (Notion)
-https://swtak.notion.site/swtak/Data-Analyst-c96a0953648747f791f7fdbcff424389
+https://swtak.notion.site/Data-Engineer-c96a0953648747f791f7fdbcff424389?pvs=4
