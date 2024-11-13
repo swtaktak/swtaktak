@@ -8,5 +8,6 @@
 - 그 외 새로운 개발 분야를 하나 정해서, 다시 파보고 싶습니다.
 
 ## PS Record
+- BOJ : 2024.11.02 ~ Ongoing
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taraki3639)](https://solved.ac/taraki3639/)
 
