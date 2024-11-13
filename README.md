@@ -5,5 +5,5 @@
 ## Resume (Notion)
 https://swtak.notion.site/Data-Engineer-c96a0953648747f791f7fdbcff424389?pvs=4
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taraki3639)](https://solved.ac/taraki3639/)
 
