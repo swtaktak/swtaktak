@@ -3,7 +3,7 @@
 -
 
 ## Skill Sets
-- <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=3776AB"/></a>
+- <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=3776AB"/></a>
 ## Recent Interests
 - PS, Algorithm
 
