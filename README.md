@@ -1,6 +1,7 @@
 ## About me
-- Currently finding new interesting fields beyond data analysis
-- Considering Back-End or Data Engineering
+- Previous, working as Data Analyst
+- Currently starting to study data Engineering and back-end side
+  
 ## Skill Sets
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
