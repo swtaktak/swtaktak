@@ -1,6 +1,7 @@
 ## About me
 - Previous, working as Data Analyst
-- Currently starting to study data Engineering and back-end side
+- Currently starting to study back-end side and web developments.
+- Preparing public affairs area.
   
 ## Skill Sets
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
