@@ -8,7 +8,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swtaktak&layout=compact)
 ## Recent Interests
 - PS, Algorithm
 ## PS Record
