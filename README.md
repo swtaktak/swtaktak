@@ -1,6 +1,5 @@
 ## About me
 - Previous, working as Data Analyst
-- Currently starting to study back-end side and web developments.
 - Preparing public affairs area.
   
 ## Skill Sets
@@ -12,6 +11,7 @@
 
 ## Recent Interests
 - PS, Algorithm
+
 ## PS Record
 - BOJ : 2024.11.02 ~ Ongoing
   
