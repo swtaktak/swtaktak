@@ -11,7 +11,7 @@
 
 ## Recent Interests
 - PS, Algorithm
-- Data Engineering, Specially Pyspark, Airflow
+- Data Engineering, Specially Pyspark, Airflow (Learning now!)
 
 ## PS Record
 - BOJ : 2024.11.02 ~ Ongoing
