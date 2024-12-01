@@ -1,6 +1,6 @@
 ## About me
 - Previous, working as Data Analyst
-- Preparing public affairs area.
+  
   
 ## Skill Sets
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,6 +11,7 @@
 
 ## Recent Interests
 - PS, Algorithm
+- Data Engineering, Specially Pyspark, Airflow
 
 ## PS Record
 - BOJ : 2024.11.02 ~ Ongoing
